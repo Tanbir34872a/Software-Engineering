@@ -1,0 +1,10 @@
+1. Title
+2. Background Description
+3. Problem {Why is it so important}
+4. Project Objective
+5. Target User {How will they be benefited}
+6. basic functionalities
+
+Local bus Tracking System
+In bangladesh the local busses does not follow any exact schedule due to jams.
+This causes the people/passengerts to get confused and 
